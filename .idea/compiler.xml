@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="frame_rpc" />
+        <module name="frame_demo_extension" />
         <module name="frame_config_spring" />
         <module name="frame_config_api" />
         <module name="frame_common" />
@@ -24,7 +24,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="frame_common" options="" />
       <module name="frame_config" options="" />
-      <module name="frame_rpc" options="" />
+      <module name="frame_demo_extension" options="" />
     </option>
   </component>
 </project>
