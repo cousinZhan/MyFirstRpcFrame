@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/frame_common/pom.xml" />
         <option value="$PROJECT_DIR$/frame_config/frame_config_api/pom.xml" />
         <option value="$PROJECT_DIR$/frame_config/frame_config_springapi/pom.xml" />
+        <option value="$PROJECT_DIR$/frame_config/frame_config_test/pom.xml" />
+        <option value="$PROJECT_DIR$/frame_config/frame_config_test2/pom.xml" />
       </set>
     </option>
   </component>

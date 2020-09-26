@@ -14,7 +14,6 @@
     <modules>
         <module>frame_config_spring</module>
         <module>frame_config_api</module>
-        <module>frame_config_test</module>
     </modules>
 
     <dependencyManagement>

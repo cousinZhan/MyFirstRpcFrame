@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="frame_rpc" />
-        <module name="frame_config_test" />
         <module name="frame_config_spring" />
         <module name="frame_config_api" />
         <module name="frame_common" />
@@ -17,6 +16,8 @@
       <module name="frame_common" target="1.8" />
       <module name="frame_config_api" target="1.8" />
       <module name="frame_config_springapi" target="1.8" />
+      <module name="frame_config_test" target="1.8" />
+      <module name="frame_config_test2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
