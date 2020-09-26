@@ -1,0 +1,2 @@
+adaptive=com.doak.common.common.compiler.support.AdaptiveCompiler
+javassist=com.doak.common.common.compiler.support.JavassistCompiler

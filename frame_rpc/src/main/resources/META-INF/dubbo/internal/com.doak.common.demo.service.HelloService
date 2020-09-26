@@ -1,0 +1,2 @@
+chinese=com.doak.common.demo.service.impl.ChineseHelloService
+english=com.doak.common.demo.service.impl.EnglishHelloService

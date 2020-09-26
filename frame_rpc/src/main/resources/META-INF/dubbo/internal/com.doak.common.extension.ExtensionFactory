@@ -1,0 +1,2 @@
+spi=com.doak.common.extension.factory.SpiExtensionFactory
+adaptive=com.doak.common.extension.factory.AdaptiveExtensionFactory

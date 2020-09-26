@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="frame_rpc" />
+        <module name="frame_config_test" />
+        <module name="frame_config_spring" />
+        <module name="frame_config_api" />
+        <module name="frame_common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="frame_common" target="1.8" />
+      <module name="frame_config_api" target="1.8" />
+      <module name="frame_config_springapi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="frame_common" options="" />
+      <module name="frame_config" options="" />
+      <module name="frame_rpc" options="" />
+    </option>
+  </component>
+</project>
